@@ -11,4 +11,3 @@ app.get('/',(req,res)=>{
     res.send("welcome to the home page")
     
 })
-console.log("hello");
